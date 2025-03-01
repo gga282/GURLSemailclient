@@ -33,8 +33,8 @@ GURLS Email Client is a command-line email client built with Python. It lets you
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/MyEmailClient.git
-   cd MyEmailClient
+   git clone https://github.com/gga282/GURLSemailclient.git
+   cd GURLSemailclient
 
 ## Usage
 1. **Run the Application**
